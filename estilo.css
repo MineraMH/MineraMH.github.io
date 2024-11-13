@@ -39,7 +39,7 @@ header nav {
 }
 
 .logo img {
-    height: 90px;
+    height: 100px;
     padding-left: 100px;
 }
 
@@ -130,6 +130,7 @@ section#inicio h2, section#ubicacion h2{
     padding-top: 15px;
 }
 section#inicio .intro h1 {
+    text-align: center;
     padding-top: 10px;
     font-size: 40px;
     font-weight: 300;
