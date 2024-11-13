@@ -122,16 +122,16 @@ section#inicio, section#ubicacion{
 
 }
 
-section#inicio h2, section#ubicacion h2{
+section#inicio h1, section#ubicacion h1{
     text-align: center;
     color: #d12121;
     font-weight: 400;
     font-size: 30px;
     padding-top: 15px;
 }
-section#inicio .intro h2 {
+section#inicio .intro h1 {
     padding-top: 10px;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 300;
     font-family: "poppins" sans-serif;
     color: #d5b500;
